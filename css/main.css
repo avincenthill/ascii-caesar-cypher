@@ -70,7 +70,7 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 10px solid #ff0000;
+    border-bottom: 10px solid #a9cce2;
 }
 
 .footer-container,
@@ -90,16 +90,7 @@ body {
     font-weight: 500;
     font-kerning: normal;
     margin-right: 5px;
-    color: #ff0000;
-}
-
-.subtitle {
-    position: relative;
-    top: 65px;
-    font-family: 'bebas_neueregular', Fallback, sans-serif;
-
-    font-size: 30px;
-    color: white;
+    color: #a9cce2;
 }
 
 .directions {
@@ -107,6 +98,16 @@ body {
     font-size: 30px;
     color: #000000;
 }
+
+.glyphicon {
+    vertical-align: left;
+    top: -1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: .7em;
+    color: white;
+}
+
 /* ==============
     MOBILE: Menu
    ============== */
