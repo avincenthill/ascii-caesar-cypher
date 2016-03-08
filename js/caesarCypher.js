@@ -1,7 +1,7 @@
 //Caesar Cypher Encryption, Decryption, and Attack in JavaScript
 //Alexander Vincent-Hill, 29 Feb 2016
-
 //Rotates a string and outputs the ASCII-shifted string
+
 "use strict";
 
 function cypher(rawString, numericalShift) {
